@@ -1,0 +1,17 @@
+C:\Users\JCEM\Documents\GitHub\uCNC-virtual-GUI\uCNCgui\bin\Debug\net6.0-windows\uCNCgui.exe
+C:\Users\JCEM\Documents\GitHub\uCNC-virtual-GUI\uCNCgui\bin\Debug\net6.0-windows\uCNCgui.deps.json
+C:\Users\JCEM\Documents\GitHub\uCNC-virtual-GUI\uCNCgui\bin\Debug\net6.0-windows\uCNCgui.runtimeconfig.json
+C:\Users\JCEM\Documents\GitHub\uCNC-virtual-GUI\uCNCgui\bin\Debug\net6.0-windows\uCNCgui.dll
+C:\Users\JCEM\Documents\GitHub\uCNC-virtual-GUI\uCNCgui\bin\Debug\net6.0-windows\ref\uCNCgui.dll
+C:\Users\JCEM\Documents\GitHub\uCNC-virtual-GUI\uCNCgui\bin\Debug\net6.0-windows\uCNCgui.pdb
+C:\Users\JCEM\Documents\GitHub\uCNC-virtual-GUI\uCNCgui\obj\Debug\net6.0-windows\uCNCgui.Main.resources
+C:\Users\JCEM\Documents\GitHub\uCNC-virtual-GUI\uCNCgui\obj\Debug\net6.0-windows\uCNCgui.csproj.GenerateResource.cache
+C:\Users\JCEM\Documents\GitHub\uCNC-virtual-GUI\uCNCgui\obj\Debug\net6.0-windows\uCNCgui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JCEM\Documents\GitHub\uCNC-virtual-GUI\uCNCgui\obj\Debug\net6.0-windows\uCNCgui.AssemblyInfoInputs.cache
+C:\Users\JCEM\Documents\GitHub\uCNC-virtual-GUI\uCNCgui\obj\Debug\net6.0-windows\uCNCgui.AssemblyInfo.cs
+C:\Users\JCEM\Documents\GitHub\uCNC-virtual-GUI\uCNCgui\obj\Debug\net6.0-windows\uCNCgui.csproj.CoreCompileInputs.cache
+C:\Users\JCEM\Documents\GitHub\uCNC-virtual-GUI\uCNCgui\obj\Debug\net6.0-windows\uCNCgui.dll
+C:\Users\JCEM\Documents\GitHub\uCNC-virtual-GUI\uCNCgui\obj\Debug\net6.0-windows\ref\uCNCgui.dll
+C:\Users\JCEM\Documents\GitHub\uCNC-virtual-GUI\uCNCgui\obj\Debug\net6.0-windows\uCNCgui.pdb
+C:\Users\JCEM\Documents\GitHub\uCNC-virtual-GUI\uCNCgui\obj\Debug\net6.0-windows\uCNCgui.genruntimeconfig.cache
+C:\Users\JCEM\Documents\GitHub\uCNC-virtual-GUI\uCNCgui\obj\Debug\net6.0-windows\uCNCgui.csproj.AssemblyReference.cache
