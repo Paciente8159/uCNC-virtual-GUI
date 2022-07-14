@@ -1,2 +1,2 @@
-# uCNC-Virtual-GUI
-uCNC virtual emulator IO GUI
+# µCNC-virtual-GUI
+µCNC virtual emulator IO GUI
